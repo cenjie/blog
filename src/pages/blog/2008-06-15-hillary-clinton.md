@@ -11,7 +11,7 @@ image:
   alt:
 tags: 
 ---
-翻译自<a href="http://www.nytimes.com/2008/06/07/us/politics/07text-clinton.html">Hillary Clinton Endorses Barack Obama</a>
+翻译自[Hillary Clinton Endorses Barack Obama](https://www.nytimes.com/2008/06/07/us/politics/07text-clinton.html)
 
 非常，非常感谢大家。这虽然不是我计划中想要举行的聚会，但我仍然很高兴大家能来。
 

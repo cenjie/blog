@@ -11,11 +11,13 @@ image:
   alt:
 tags: 
 ---
-翻译自<a href="http://www.underconsideration.com/brandnew/archives/the_biggest_collection_of_dots.php">The Biggest Collection of Dots in the World</a>
+翻译自[The Biggest Collection of Dots in the World](https://www.underconsideration.com/brandnew/archives/the_biggest_collection_of_dots.php)
 
 对于世界上的的企业来讲，再没有比“世界上最大的XX公司”更吸引人的宣传词了，最近加入这个行列的是汤姆森路透。汤姆森花了数十亿美元，并承受着股票波动，买下了路透，组成世界上最大的商业媒体公司。昨天，新公司发布了由Interbrand设计的新标志。
 
-<blockquote>“这个富有活力的新标志既代表以两家公司历史和气质为基础的新起点，也代表了汤姆森路透在世界金融信息和数据提供商中的领导地位。” <p align="right">—— Thomas H. Glocer， 汤姆森路透CEO</p></blockquote>
+> “这个富有活力的新标志既代表以两家公司历史和气质为基础的新起点，也代表了汤姆森路透在世界金融信息和数据提供商中的领导地位。”
+> 
+> —— Thomas H. Glocer， 汤姆森路透CEO
 
 汤姆森路透在时报广场（时代广场）的广告牌。由Flickr用户xsquare2摄制，他的相册中还有更多的图片。
 

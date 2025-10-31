@@ -9,7 +9,8 @@ image:
   src:
   alt:
 ---
-某一次浏览<a href="http://www.msn.com/">MSN.com</a>的时候，瞥到右上角的"Start your story at Windows Live Spaces"。从那时起便对<a href="http://spaces.live.com/">Live Spaces</a>倾心，加上那悦目的蓝色（我称为live blue），决定自己写blog的时候一定要用Live Spaces。(Update@Sep 30, 2010: 微软将于2011年3月正式关闭Live Spaces业务，推荐用户转移到WordPress.com，中国大陆地区转移到新浪博客，我就转移到自己架设的WordPress博客上。)
+
+某一次浏览[MSN.com](https://www.msn.com/)的时候，瞥到右上角的"Start your story at Windows Live Spaces"。从那时起便对[Live Spaces](https://spaces.live.com/)倾心，加上那悦目的蓝色（我称为live blue），决定自己写blog的时候一定要用Live Spaces。(Update@Sep 30, 2010: 微软将于2011年3月正式关闭Live Spaces业务，推荐用户转移到WordPress.com，中国大陆地区转移到新浪博客，我就转移到自己架设的WordPress博客上。)
 
 然而从那时到现在，一直都没有下定决心要写blog，担心自己不能表达真实的自己，也担心自己不能坚持。可是每每想到生活中经历的感动常难留住，感动变成稍纵即逝，再也抓不住的美好。看到佳能的广告语——感动常在，才知意愿是抵不上时间的，即便是一天。用相机能留下生活的美好瞬间，可是什么能留下思绪的美好瞬间？我的答案是blog。
 

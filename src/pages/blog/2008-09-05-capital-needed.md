@@ -11,7 +11,7 @@ image:
   alt:
 tags: 
 ---
-翻译自<a href="http://www.nytimes.com/2008/09/05/business/worldbusiness/05yuan.html">Main Bank of China Is in Need of Capital</a>
+翻译自[Main Bank of China Is in Need of Capital](https://www.nytimes.com/2008/09/05/business/worldbusiness/05yuan.html)
 
 中国央行陷入了困境。
 

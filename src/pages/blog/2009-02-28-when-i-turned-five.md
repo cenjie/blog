@@ -11,9 +11,9 @@ image:
   alt:
 tags: 
 ---
-翻译自 <a href="http://www.wcas.northwestern.edu/alumni/crosscurrents/2007-fall-winter/articles/five.html">When I Turned Five</a>
+翻译自 [When I Turned Five](https://www.wcas.northwestern.edu/alumni/crosscurrents/2007-fall-winter/articles/five.html)
 
-简介：修读创造性写作的07级毕业生<a href="http://www.facebook.com/kuangyan">黄矿岩</a>，写下这篇文章讲述他的赴美往事。他将在2008年秋季入读哥伦比亚大学法学院，计划成为一位法学教授，在将来参与到与中国有关的国际事务中。在西北大学求学期间，他建立了一个教授柔术（Jujitsu，是现今合气道及柔道的前身，是一种相当全面性的武术）的社团和<a href="http://groups.northwestern.edu/chinacare/"> China Care西北大学分支</a>。China Care是一个关怀从中国收养的孩子的组织。
+简介：修读创造性写作的07级毕业生[黄矿岩](https://www.facebook.com/kuangyan)，写下这篇文章讲述他的赴美往事。他将在2008年秋季入读哥伦比亚大学法学院，计划成为一位法学教授，在将来参与到与中国有关的国际事务中。在西北大学求学期间，他建立了一个教授柔术（Jujitsu，是现今合气道及柔道的前身，是一种相当全面性的武术）的社团和 [China Care西北大学分支](https://groups.northwestern.edu/chinacare/)。China Care是一个关怀从中国收养的孩子的组织。
 
 我后来才知道，当爸妈打算从妈妈的家乡南宁搬到爸爸的家乡柳州时，我怎么也不愿意。我嚎啕大哭，去粘着患有糖尿病的外婆。当外婆也向我说再见时，我又求助于阿姨、舅舅——最后是爸爸。他用眼神（还有手）让我死心了。
 

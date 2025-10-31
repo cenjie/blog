@@ -11,7 +11,7 @@ image:
   alt:
 tags: 
 ---
-这是参加<a href="http://www.xinhuanet.com/newmedia/ckxxywds/">首届《参考消息》读者译文大赛</a>的翻译作品，12月15日，比赛结果宣布，很遗憾没有得奖，就发布在blog上了。英文文章是来自《泰晤士报》的阿波罗登月40周年纪念文章<a href="http://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article6719667.ece">One Small Step back to Where We Started</a>
+这是参加[首届《参考消息》读者译文大赛](https://www.xinhuanet.com/newmedia/ckxxywds/)的翻译作品，12月15日，比赛结果宣布，很遗憾没有得奖，就发布在blog上了。英文文章是来自《泰晤士报》的阿波罗登月40周年纪念文章[One Small Step back to Where We Started](https://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article6719667.ece)
 
 阿波罗计划本来的使命是要揭开月球的神秘面纱。然而，这个计划最终却增进了我们对于地球和自身的了解。
 
@@ -43,10 +43,10 @@ tags:
 
 这就是我们需要庆祝阿波罗登月40周年最重要的理由，它并不关乎科学、环境或是政治，而是关乎我们自身。从今往后，当你走在乡间小路上，想要看清这路通向何方时；当孩子不停哭泣，唯一可做的就是带上他驾车出行时，请一定要记得那12个人曾经站在月球上，遥望地球。正如T.S.艾略特的诗一样：
 
-<blockquote>我们从未停止探索，
-
-纵使这探索的尽头，
-
-是我们开始的地方，
-
-也让我们重新认识，脚下的土地。</blockquote>
+> 我们从未停止探索，
+> 
+> 纵使这探索的尽头，
+> 
+> 是我们开始的地方，
+> 
+> 也让我们重新认识，脚下的土地。
