@@ -41,7 +41,7 @@ export default defineConfig({
 
 	integrations: [react(), sitemap()],
 	output: 'static',
-	trailingSlash: 'never',
+	trailingSlash: 'ignore',
 	vite: {
 		plugins: [tailwindcss()]
 	}

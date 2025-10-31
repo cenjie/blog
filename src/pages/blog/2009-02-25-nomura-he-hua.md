@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/post.astro
-title: Nomura：何华
+title: 野村证券：何华
 pubDate: 2009-02-25 22:48
 description: 
 author: "CJ"

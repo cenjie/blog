@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/post.astro
-title: Yale：陈志武
+title: 耶鲁大学：陈志武
 pubDate: 2008-12-13 23:47
 description: 
 author: "CJ"
