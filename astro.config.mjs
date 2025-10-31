@@ -30,7 +30,8 @@ const options = {
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://gao.cenjie.com/',
+	site: 'https://cenjie.github.io',
+	base: '/blog',
 
 	markdown: {
 		syntaxHighlight: false,
